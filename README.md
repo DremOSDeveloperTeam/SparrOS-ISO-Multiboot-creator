@@ -14,6 +14,6 @@ THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bas
 
 Using a text editor, you must make the necessary tweaks to the bash script. All of the required packages are in the directory /Linux/Debian_Packages/distro/
 
-# SparrOS-Multiboot Windows Version
+# SparrOS-Multiboot Windows/DOS Version
 
 This batch is undecided and may go unreleased.

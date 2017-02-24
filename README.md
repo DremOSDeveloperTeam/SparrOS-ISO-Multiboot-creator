@@ -2,7 +2,7 @@
 
 This program was created to allow you to create your own Multiboot ISO.
 
-# SparrOS-Multiboot.sh
+# SparrOS-Multiboot Linux Version
 
 THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bash script, the following must be installed on your PC:
 
@@ -14,6 +14,6 @@ THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bas
 
 Using a text editor, you must make the necessary tweaks to the bash script. All of the required packages are in the directory /Linux/Debian_Packages/distro/
 
-# SparrOS-Multiboot.bat
+# SparrOS-Multiboot Windows Version
 
 This batch is undecided and may go unreleased.

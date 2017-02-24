@@ -1,0 +1,20 @@
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+  <group>
+    <repositories>
+      <repository recommended="true">
+        <name>openSUSE:Leap:42.2</name>
+        <summary>openSUSE Leap 42.2</summary>
+        <description></description>
+        <url>http://download.opensuse.org/distribution/leap/42.2/repo/oss/</url>
+      </repository>
+    </repositories>
+    <software>
+      <item>
+        <name>nano</name>
+        <summary>Pico editor clone with enhancements</summary>
+        <description>GNU nano is a small and friendly text editor. It aims to emulate
+the Pico text editor while also offering a few enhancements.</description>
+      </item>
+    </software>
+  </group>
+</metapackage>

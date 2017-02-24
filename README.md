@@ -12,7 +12,7 @@ THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bas
 4. <a href="apt:xterm">XTerm</a> or <a href="apt:konsole">Konsole</a> (Required)
 5. <a href="apt:qemu">Qemu</a> or <a href="apt:virtualbox">VirtualBox</a> (Optional)
 
-Using a text editor, you must make the necessary tweaks to the bash script. All of the required packages are in the directory /Linux/debian_packages/distro/
+Using a text editor, you must make the necessary tweaks to the bash script. All of the required packages are in the directory /Linux/Debian_Packages/distro/
 
 # SparrOS-Multiboot.bat
 

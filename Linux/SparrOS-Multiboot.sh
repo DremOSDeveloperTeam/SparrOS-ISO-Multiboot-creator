@@ -46,11 +46,15 @@ convert -colors 14 -depth 8 -resize 640x480! splash.jpg  splash.xpm.gz
 cp splash.xpm.gz  /SparrOS/ISO/Output/boot/grub
 cp grub.conf /SparrOS/ISO/Output/boot/grub
 
-# splashimage=/boot/grub/splash.xpm.gz
-#
-# #title os
-# #uncomment the below line for liveCD
-# kernel /boot/puppy/vmlinuz pmedia=cd
-# #uncomment the below line for liveUSB
-#     kernel /boot/puppy/vmlinuz pmedia=usbflash
-# initrd /boot/os/initrd.gz
+# So after all that, we must create the ISOLinux configuration
+
+cp splash.jpg /SparrOS/ISO/Output/boot/isolinux
+cp isolinux.cfg /SparrOS/ISO/Output/boot/isolinux
+
+# Create the msg file which will be used for boot menu
+
+cp list.msg /SparrOS/ISO/Output/boot/grub
+
+# Now, we must make the ISO
+
+echo Now you can create the ISO image

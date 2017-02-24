@@ -39,3 +39,18 @@ locate vesamenu.c32 isolinux.bin
 rpm -ql syslinux | grep vesamenu.c32 &&  rpm -ql syslinux | grep isolinux.bin
 mkdir mbcd/boot/isolinux
 cp /path_to/vesamenu.c32 /path_to/isolinux.bin  /SparrOS/ISO/Output/boot/isolinux
+
+# Now we will work on GRUB configuration
+
+convert -colors 14 -depth 8 -resize 640x480! splash.jpg  splash.xpm.gz
+cp splash.xpm.gz  /SparrOS/ISO/Output/boot/grub
+cp grub.conf /SparrOS/ISO/Output/boot/grub
+
+# splashimage=/boot/grub/splash.xpm.gz
+#
+# #title os
+# #uncomment the below line for liveCD
+# kernel /boot/puppy/vmlinuz pmedia=cd
+# #uncomment the below line for liveUSB
+#     kernel /boot/puppy/vmlinuz pmedia=usbflash
+# initrd /boot/os/initrd.gz

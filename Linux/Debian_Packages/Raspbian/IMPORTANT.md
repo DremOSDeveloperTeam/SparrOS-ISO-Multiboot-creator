@@ -1,0 +1,3 @@
+# Important!
+
+I wasn't able to find a ISO creator for Raspbian right now, so...

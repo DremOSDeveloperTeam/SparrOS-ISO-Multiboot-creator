@@ -10,5 +10,8 @@ Step 5: Run Genisoimage or mkisofs
 
 Step 1: Escape to FreeDOS command prompt or open a command prompt.
 Step 2: Open Notepad or any text editor installed.
-Step 3: Edit SparrOS-Multiboot.bat.
-Step 4: Launch 
+Step 3: Edit SparrOS-Multiboot.bat and fill in required blanks.
+Step 4: Launch README.bat and do what it tells you to.
+Step 5: Insert blank cd into drive.
+Step 6: Execute SparrOS-Multiboot.bat\
+Step 7: Run mkisofs

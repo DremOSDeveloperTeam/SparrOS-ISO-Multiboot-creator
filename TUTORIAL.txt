@@ -1,0 +1,3 @@
+# SparrOS-Multiboot.sh
+
+Step 1: Install all of the software included in /Linux/Debian_Packages for your

@@ -1,6 +1,6 @@
 # SparrOS-ISO-Multiboot-creator
 
-This program was created to allow you to create your own Multiboot ISO.
+This program is a tutorial on how to create your own Multiboot ISO.
 
 # SparrOS-Multiboot Linux Version
 
@@ -22,3 +22,8 @@ In a later release, I will add command 'sudo' to the repository.
 # SparrOS-Multiboot Windows/DOS Version
 
 THIS SCRIPT MUST TOO BE EDITED BEFORE EXECUTING IN COMMAND PROMPT/DOS PROMPT. All of the files included with the batch script must be in the same directory as the batch script (i.e. If 'SparrOS-Multiboot.bat' is in C:\SparrOS\. then all of the COM and EXE files included in this repository must also be in C:\SparrOS\.).
+Be sure to install msys on Windows before doing anything else.
+
+# Tutorial
+
+For a tutorial, see TUTORIAL.md

@@ -1,4 +1,4 @@
-# Notes
+### Notes
 
 Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders.
 
@@ -6,7 +6,7 @@ Please note this is an incomplete repository and some things might be corrupt, m
 
 This program is a tutorial on how to create your own Multiboot ISO.
 
-# SparrOS-Multiboot Linux Version
+## SparrOS-Multiboot Linux Version
 
 THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bash script, the following must be installed on your PC:
 
@@ -23,14 +23,14 @@ $ sudo bash ./SparrOS-Multiboot.sh
 
 In a later release, I will add command 'sudo' to the repository.
 
-# SparrOS-Multiboot Windows/DOS Version
+## SparrOS-Multiboot Windows/DOS Version
 
 THIS SCRIPT MUST TOO BE EDITED BEFORE EXECUTING IN COMMAND PROMPT/DOS PROMPT. All of the files included with the batch script must be in the same directory as the batch script (i.e. If 'SparrOS-Multiboot.bat' is in C:\SparrOS\. then all of the COM and EXE files included in this repository must also be in C:\SparrOS\.).
 Be sure to install msys on Windows before doing anything else.
 
 # Tutorial
 
-# SparrOS-Multiboot.sh
+## SparrOS-Multiboot.sh
 
 1. Install all of the software included in /Linux/Debian_Packages/ for your distro. Debian users install packages from /Debian/ directory, Ubuntu users install packages from /Ubuntu/ directory, Raspbian users install packages from /Raspbian/ directory, and openSUSE users install packages from /openSUSE/ directory.
 
@@ -42,7 +42,7 @@ Be sure to install msys on Windows before doing anything else.
 
 5. Run Genisoimage or mkisofs
 
-# SparrOS-Multiboot.bat
+## SparrOS-Multiboot.bat
 
 1. Escape to FreeDOS command prompt or open a command prompt.
 

@@ -5,6 +5,11 @@
 mkdir /SparrOS
 mkdir /SparrOS/ISO
 mkdir -p /SparrOS/ISO/Output
+mkdir /SparrOS/ISO/Output/boot
+mkdir /SparrOS/ISO/Output/boot/os
+mkdir /SparrOS/ISO/Output/boot/grub
+mkdir /SparrOS/ISO/Output/boot/isolinux
+cp /path_to/images.iso /SparrOS/ISO
 cd /SparrOS/ISO
 
 # Mounts the ISO from ./
@@ -21,12 +26,7 @@ mount *.iso /mnt/tmpx -o loop,uid=<id>,gid=<group>
 
 # Now, we must copy a couple of files from the iso
 
-mkdir /SparrOS/ISO/Output/boot/os
 cp /mnt/tmpx/initrd.gz /mnt/tmpx/vmlinuz  /SparrOS/ISO/Output/boot/os
-
-# Then, we must create grub
-
-mkdir /SparrOS/ISO/Output/boot/grub
 
 # If you have grub on your system,
 
@@ -38,7 +38,6 @@ cp /path_to/eltorito_dir/stage2_eltorito  /SparrOS/ISO/Output/boot/grub/
 
 locate vesamenu.c32 isolinux.bin
 rpm -ql syslinux | grep vesamenu.c32 &&  rpm -ql syslinux | grep isolinux.bin
-mkdir /SparrOS/ISO/Output/boot/isolinux
 cp /path_to/vesamenu.c32 /path_to/isolinux.bin  /SparrOS/ISO/Output/boot/isolinux
 
 # Now we will work on GRUB configuration

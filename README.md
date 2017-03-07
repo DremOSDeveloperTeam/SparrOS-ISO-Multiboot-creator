@@ -31,7 +31,7 @@ Be sure to install msys on Windows before doing anything else.
 
 # Tutorial
 
-## SparrOS-Multiboot.sh
+## <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/SparrOS-Multiboot.sh
 
 1. Install all of the software included in `/Linux/Debian_Packages/` for your distro. Debian users install packages from `/Debian/` directory, Ubuntu users install packages from `/Ubuntu/` directory, Raspbian users install packages from `/Raspbian/` directory, and openSUSE users install packages from `/openSUSE/` directory.
 

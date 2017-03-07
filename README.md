@@ -1,6 +1,6 @@
 ### Notes
 
-Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders.
+Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki.
 
 # SparrOS-ISO-Multiboot-creator
 

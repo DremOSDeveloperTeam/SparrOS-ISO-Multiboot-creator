@@ -15,7 +15,7 @@
 
   .thin-green-border {
   border-color: green;
-  border-width: 20px;
+  border-width: 10px;
   border-style: solid;
   border-radius: 50%;
   }
@@ -23,6 +23,7 @@
 
 <div class="ubuntu">
 <a id="Notes" name="Notes"></a>
+<br>
 ### Notes
 
 Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki. https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki

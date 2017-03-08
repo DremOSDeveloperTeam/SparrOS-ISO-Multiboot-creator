@@ -27,7 +27,7 @@
 <br>
 <h3>Notes</h3>
 
-Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki. https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki
+Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki">wiki</a>.
 <br>
 <br>
 <img class="smaller-image thin-green-border" src="sparrow.jpg">

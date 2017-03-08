@@ -7,19 +7,33 @@ Please note this is an incomplete repository and some things might be corrupt, m
 ### Table of Contents
 
   <a href="#Notes">Notes</a>
+<br>
   <a href="#TOC">Table of Contents</a>
+<br>
 <a href="#SparrOS-ISO-Multiboot-creator">SparrOS-ISO-Multiboot-creator</a>
+<br>
+<br>
  <a href="#SparrOS-Multiboot-Linux">SparrOS-Multiboot Linux Version</a>
+<br>
  <a href="#SparrOS-Multiboot-DOS">SparrOS-Multiboot Windows/DOS Version</a>
+<br>
 <a href="#Tutorial">Tutorial</a>
+<br>
  <a href="#SparrOS-Multiboot.sh">SparrOS-Multiboot.sh</a>
+<br>
  <a href="#SparrOS-Multiboot.bat">SparrOS-Multiboot.bat</a>
+<br>
 <a href="#Downloads">Downloads</a>
+<br>
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-ISO-Multiboot-creator" name="SparrOS-ISO-Multiboot-creator"></a>
 # SparrOS-ISO-Multiboot-creator
 
 This program is a tutorial on how to create your own Multiboot ISO.
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot-Linux" name="SparrOS-Multiboot-Linux"></a>
 ## SparrOS-Multiboot Linux Version
@@ -39,15 +53,21 @@ Using a text editor, you must make the necessary tweaks to the bash script. All 
 Some commands will need to be ran as root, so the bash script needs to be executed using the following command:
 
 `$ sudo bash ./SparrOS-Multiboot.sh`
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot-DOS" name="SparrOS-Multiboot-DOS"></a>
 ## SparrOS-Multiboot Windows/DOS Version
 
 THIS SCRIPT MUST TOO BE EDITED BEFORE EXECUTING IN COMMAND PROMPT/DOS PROMPT. All of the files included with the batch script must be in the same directory as the batch script (i.e. If `SparrOS-Multiboot.bat` is in `C:\SparrOS\.` then all of the COM and EXE files included in this repository must also be in `C:\SparrOS\.`).
 Be sure to install `msys` on Windows before doing anything else.
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="Tutorial" name="Tutorial"></a>
 # Tutorial
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot.sh" name="SparrOS-Multiboot.sh"></a>
 ## SparrOS-Multiboot.sh
@@ -61,6 +81,8 @@ Be sure to install `msys` on Windows before doing anything else.
 4. `$ sudo bash SparrOS-Multiboot.sh`
 
 5. Run `Genisoimage` or `mkisofs`
+<br>
+<a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot.bat" name="SparrOS-Multiboot.bat"></a>
 ## SparrOS-Multiboot.bat
@@ -78,5 +100,16 @@ Be sure to install `msys` on Windows before doing anything else.
 6. Execute `SparrOS-Multiboot.bat`
 
 7. Run `mkisofs`
+<br>
+<a href="#Notes">Back to top ^</a>
 
+<a id="Downloads" name="Downloads"></a>
 # Downloads
+
+SparrOS Linux Files <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/tree/master/Linux">here</a>
+<br>
+SparrOS Windows/DOS Files <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/tree/master/Windows">here</a>
+<br>
+Sample coming soon
+<br>
+<a href="#Notes">Back to top ^</a>

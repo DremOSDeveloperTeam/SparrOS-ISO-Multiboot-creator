@@ -1,5 +1,9 @@
 <!-- Using Ubuntu Font
 -->
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="tux.ico" />
+</head>
+
 <style>
   .smaller-image {
   width: 150px;
@@ -11,7 +15,7 @@
 
   .thin-green-border {
   border-color: green;
-  border-width: 10px;
+  border-width: 20px;
   border-style: solid;
   border-radius: 50%;
   }

@@ -12,7 +12,6 @@ Please note this is an incomplete repository and some things might be corrupt, m
 <br>
 <a href="#SparrOS-ISO-Multiboot-creator">SparrOS-ISO-Multiboot-creator</a>
 <br>
-<br>
  <a href="#SparrOS-Multiboot-Linux">SparrOS-Multiboot Linux Version</a>
 <br>
  <a href="#SparrOS-Multiboot-DOS">SparrOS-Multiboot Windows/DOS Version</a>

@@ -11,14 +11,13 @@
   }
 
   .ubuntu {
-  font-family: Ubuntu, sans-serif;
+  font-family: Ubuntu;
   }
 
   .thin-green-border {
   border-color: green;
   border-width: 10px;
   border-style: solid;
-  border-radius: 50%;
   }
 </style>
 

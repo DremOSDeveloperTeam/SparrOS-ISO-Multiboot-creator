@@ -1,5 +1,6 @@
 <!-- Using Ubuntu Font
 -->
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="tux.ico" />
 </head>
@@ -24,7 +25,7 @@
 <div class="ubuntu">
 <a id="Notes" name="Notes"></a>
 <br>
-### Notes
+<h3>Notes</h3>
 
 Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki. https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki
 <br>
@@ -58,14 +59,14 @@ Please note this is an incomplete repository and some things might be corrupt, m
 
 <a id="SparrOS-ISO-Multiboot-creator" name="SparrOS-ISO-Multiboot-creator"></a>
 <div class="ubuntu">
-# SparrOS-ISO-Multiboot-creator
+<h3>SparrOS-ISO-Multiboot-creator</h3>
 
 This program is a tutorial on how to create your own Multiboot ISO.
 <br>
 <a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot-Linux" name="SparrOS-Multiboot-Linux"></a>
-## SparrOS-Multiboot Linux Version
+<h2>SparrOS-Multiboot Linux Version</h2>
 
 THIS SCRIPT MUST BE EDITED BEFORE EXECUTING IN TERMINAL. In order to run the bash script, the following must be installed on your PC:
 
@@ -101,7 +102,7 @@ Be sure to install `msys` on Windows before doing anything else.
 
 <a id="SparrOS-Multiboot.sh" name="SparrOS-Multiboot.sh"></a>
 <div class="ubuntu">
-## SparrOS-Multiboot.sh
+<h2>SparrOS-Multiboot.sh</h2>
 
 1. Install all of the software included in `/Linux/Debian_Packages/` for your distro. Debian users install packages from `/Debian/` directory, Ubuntu users install packages from `/Ubuntu/` directory, Raspbian users install packages from `/Raspbian/` directory, and openSUSE users install packages from `/openSUSE/` directory.
 
@@ -137,7 +138,7 @@ Be sure to install `msys` on Windows before doing anything else.
 
 <a id="Downloads" name="Downloads"></a>
 <div class="ubuntu">
-# Downloads
+<h1>Downloads</h1>
 
 SparrOS Linux Files <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/tree/master/Linux">here</a>
 <br>

@@ -15,7 +15,6 @@
   border-style: solid;
   border-radius: 50%;
   }
-
 </style>
 
 <div class="ubuntu">

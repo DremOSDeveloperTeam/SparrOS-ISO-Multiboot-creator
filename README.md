@@ -11,7 +11,7 @@
 
   .thin-green-border {
   border-color: green;
-  border-width: 7px;
+  border-width: 10px;
   border-style: solid;
   border-radius: 50%;
   }
@@ -24,7 +24,7 @@
 Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki. https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki
 <br>
 <br>
-<img class="smaller-image thin-green-border" src="sparrow.jpg"></img>
+<img class="smaller-image thin-green-border" src="sparrow.jpg">
 
 <a id="TOC" name="TOC"></a>
 </div>

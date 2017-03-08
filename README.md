@@ -1,9 +1,34 @@
+<!-- Using Ubuntu Font
+-->
+<style>
+  .smaller-image {
+  width: 150px;
+  }
+
+  .ubuntu {
+  font-family: Ubuntu, sans-serif;
+  }
+
+  .thin-green-border {
+  border-color: green;
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 50%;
+  }
+
+</style>
+
+<div class="ubuntu">
 <a id="Notes" name="Notes"></a>
 ### Notes
 
 Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the wiki. https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki
+<br>
+<br>
+<img class="smaller-image thin-green-border" src="sparrow.jpg"></img>
 
 <a id="TOC" name="TOC"></a>
+</div>
 ### Table of Contents
 
   <a href="#Notes">Notes</a>
@@ -28,6 +53,7 @@ Please note this is an incomplete repository and some things might be corrupt, m
 <a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-ISO-Multiboot-creator" name="SparrOS-ISO-Multiboot-creator"></a>
+<div class="ubuntu">
 # SparrOS-ISO-Multiboot-creator
 
 This program is a tutorial on how to create your own Multiboot ISO.
@@ -56,6 +82,7 @@ Some commands will need to be ran as root, so the bash script needs to be execu
 <a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot-DOS" name="SparrOS-Multiboot-DOS"></a>
+</div>
 ## SparrOS-Multiboot Windows/DOS Version
 
 THIS SCRIPT MUST TOO BE EDITED BEFORE EXECUTING IN COMMAND PROMPT/DOS PROMPT. All of the files included with the batch script must be in the same directory as the batch script (i.e. If `SparrOS-Multiboot.bat` is in `C:\SparrOS\.` then all of the COM and EXE files included in this repository must also be in `C:\SparrOS\.`).
@@ -69,6 +96,7 @@ Be sure to install `msys` on Windows before doing anything else.
 <a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot.sh" name="SparrOS-Multiboot.sh"></a>
+<div class="ubuntu">
 ## SparrOS-Multiboot.sh
 
 1. Install all of the software included in `/Linux/Debian_Packages/` for your distro. Debian users install packages from `/Debian/` directory, Ubuntu users install packages from `/Ubuntu/` directory, Raspbian users install packages from `/Raspbian/` directory, and openSUSE users install packages from `/openSUSE/` directory.
@@ -84,6 +112,7 @@ Be sure to install `msys` on Windows before doing anything else.
 <a href="#Notes">Back to top ^</a>
 
 <a id="SparrOS-Multiboot.bat" name="SparrOS-Multiboot.bat"></a>
+</div>
 ## SparrOS-Multiboot.bat
 
 1. Escape to FreeDOS command prompt or open a command prompt.
@@ -103,10 +132,12 @@ Be sure to install `msys` on Windows before doing anything else.
 <a href="#Notes">Back to top ^</a>
 
 <a id="Downloads" name="Downloads"></a>
+<div class="ubuntu">
 # Downloads
 
 SparrOS Linux Files <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/tree/master/Linux">here</a>
 <br>
+</div>
 SparrOS Windows/DOS Files <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/tree/master/Windows">here</a>
 <br>
 Sample coming soon

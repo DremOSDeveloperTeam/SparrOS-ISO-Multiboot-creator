@@ -23,7 +23,7 @@
   border-color: green;
   border-width: 10px;
   border-style: solid;
-  border-radius: 100%;
+  border-radius: 500%;
   }
 </style>
 

@@ -58,8 +58,7 @@ Please note this is an incomplete repository and some things might be corrupt, m
 
 <a id="SparrOS-ISO-Multiboot-creator" name="SparrOS-ISO-Multiboot-creator"></a>
 <div class="ubuntu">
-<h3>SparrOS-ISO-Multiboot-creator</h3>
-
+# SparrOS-ISO-Multiboot-creator
 This program is a tutorial on how to create your own Multiboot ISO.
 <br>
 <a href="#Notes">Back to top ^</a>

@@ -15,7 +15,7 @@
   font-family: Ubuntu;
   }
 
-  body {
+  .body {
         background-image: sparrow-wallpaper-5.jpg;
   }
 

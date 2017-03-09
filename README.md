@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- Using Ubuntu Font
 -->
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
@@ -12,6 +13,10 @@
 
   .ubuntu {
   font-family: Ubuntu;
+  }
+
+  body {
+        background-image: url("sparrow-wallpaper-5.jpg");
   }
 
   .thin-green-border {

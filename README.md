@@ -27,8 +27,8 @@
   }
 </style>
 
-<body>
-<div class=".ubuntu">
+<body class="body">
+<div class="ubuntu">
 <a id="Notes" name="Notes"></a>
 <br>
 <h3>Notes</h3>

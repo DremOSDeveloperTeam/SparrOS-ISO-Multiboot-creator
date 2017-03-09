@@ -18,13 +18,14 @@
   .body {
         background-image: sparrow-wallpaper-5.jpg;
         background-repeat: repeat;
+        background-attachment: scroll;
   }
 
   .thin-green-border {
   border-color: green;
   border-width: 10px;
   border-style: solid;
-  border-radius: 500%;
+  border-radius: 75%;
   }
 </style>
 

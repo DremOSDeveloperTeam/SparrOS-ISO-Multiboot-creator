@@ -16,7 +16,7 @@
   }
 
   body {
-        background-image: url("sparrow-wallpaper-5.jpg");
+        background-image: sparrow-wallpaper-5.jpg;
   }
 
   .thin-green-border {

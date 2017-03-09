@@ -26,6 +26,7 @@
   }
 </style>
 
+<body>
 <div class=".ubuntu">
 <a id="Notes" name="Notes"></a>
 <br>
@@ -153,4 +154,5 @@ SparrOS Windows/DOS Files <a href="https://github.com/SparrOSDeveloperTeam/Sparr
 Sample coming soon
 <br>
 <a href="#Notes">Back to top ^</a>
+</body>
 </html>

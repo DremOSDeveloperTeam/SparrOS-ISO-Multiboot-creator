@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <!-- Using Ubuntu Font
 -->
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
@@ -153,3 +153,4 @@ SparrOS Windows/DOS Files <a href="https://github.com/SparrOSDeveloperTeam/Sparr
 Sample coming soon
 <br>
 <a href="#Notes">Back to top ^</a>
+</html>

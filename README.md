@@ -17,6 +17,7 @@
 
   .body {
         background-image: sparrow-wallpaper-5.jpg;
+        background-repeat: repeat;
   }
 
   .thin-green-border {

@@ -96,7 +96,8 @@ Some commands will need to be ran as root, so the bash script needs to be execu
 
 <a id="SparrOS-Multiboot-DOS" name="SparrOS-Multiboot-DOS"></a>
 </div>
-## SparrOS-Multiboot Windows/DOS Version
+<br>
+<h2>SparrOS-Multiboot Windows/DOS Version</h2>
 
 THIS SCRIPT MUST TOO BE EDITED BEFORE EXECUTING IN COMMAND PROMPT/DOS PROMPT. All of the files included with the batch script must be in the same directory as the batch script (i.e. If `SparrOS-Multiboot.bat` is in `C:\SparrOS\.` then all of the COM and EXE files included in this repository must also be in `C:\SparrOS\.`).
 Be sure to install `msys` on Windows before doing anything else.
@@ -104,7 +105,8 @@ Be sure to install `msys` on Windows before doing anything else.
 <a href="#Notes">Back to top ^</a>
 
 <a id="Tutorial" name="Tutorial"></a>
-# Tutorial
+<br>
+<h2>Tutorial</h2>
 <br>
 <a href="#Notes">Back to top ^</a>
 

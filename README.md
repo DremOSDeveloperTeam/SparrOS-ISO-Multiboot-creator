@@ -106,7 +106,7 @@ Be sure to install `msys` on Windows before doing anything else.
 
 <a id="Tutorial" name="Tutorial"></a>
 <br>
-<h2>Tutorial</h2>
+<h1>Tutorial</h1>
 <br>
 <a href="#Notes">Back to top ^</a>
 

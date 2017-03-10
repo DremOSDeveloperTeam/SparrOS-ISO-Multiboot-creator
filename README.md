@@ -128,7 +128,8 @@ Be sure to install `msys` on Windows before doing anything else.
 
 <a id="SparrOS-Multiboot.bat" name="SparrOS-Multiboot.bat"></a>
 </div>
-## SparrOS-Multiboot.bat
+<br>
+<h2>SparrOS-Multiboot.bat</h2>
 
 1. Escape to FreeDOS command prompt or open a command prompt.
 

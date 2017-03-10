@@ -42,8 +42,8 @@ Please note this is an incomplete repository and some things might be corrupt, m
 
 <a id="TOC" name="TOC"></a>
 </div>
-### Table of Contents
-
+<h3>Table of Contents</h3>
+<br>
   <a href="#Notes">Notes</a>
 <br>
   <a href="#TOC">Table of Contents</a>

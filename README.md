@@ -35,7 +35,7 @@
 <br>
 <h3>Notes</h3>
 
-Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki">wiki</a>. If any problems occur, report them in the <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/issues/">'Issues'</a> section.
+Please note this is an incomplete repository and some things might be corrupt, missing, or placeholders. For more help, please read the <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/wiki">wiki</a>. If any problems occur, report them in the <a href="https://github.com/SparrOSDeveloperTeam/SparrOS-ISO-Multiboot-creator/issues/">'Issues'</a> section. There isn't an ISOLinux file yet for download, so you will have to create one yourself.
 <br>
 <br>
 <img class="smaller-image thin-green-border" src="sparrow.jpg">

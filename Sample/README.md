@@ -1,4 +1,4 @@
-The files will be uploaded Monday at 15:-- (GMT -6:00)
+The files are being uploaded right now.
 
 # How the sample works
 
